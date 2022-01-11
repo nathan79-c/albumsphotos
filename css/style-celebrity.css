@@ -1,0 +1,32 @@
+body{
+    background-color: #574dff;
+}
+div.celebrity{
+    margin: 0 auto;
+    text-align: center;
+}
+div.celebrity img{
+    width: 250px;
+    height: 400px;
+    border-radius: 20px;
+}
+div.celebrity img:hover{
+    transform: scale(1.5);
+    box-shadow: 2px 2px 2px 2px #f5ff4d;
+}
+.btn-ajout{
+    text-transform: uppercase;
+    margin: 25px;
+}
+.btn-ajout a{
+    text-decoration: none;
+    color: white;
+    background-color:#4df5ff;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+h1{
+    color: white;
+    background-color: #ff574d;
+}
